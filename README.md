@@ -1,4 +1,10 @@
 # Scala Android Miner
+DOWNLOAD APK:
+
+
+https://github.com/mightmay/ScalaMobileMinerMight/raw/master/app-release.apk
+
+
 
 A high performance and open-source application for mining Scala on Android mobile devices.
 
